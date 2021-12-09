@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FeverDEV
 - 👀 I’m interested in ... discord.js coding
 - 🌱 I’m currently learning ... discord.js
-- 💞️ I’m looking to collaborate on ... SCR Discord Server Bots
 - 📫 How to reach me ... COMING SOON
 
 <!---
